@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Federico Carmignani</h1>
-<h3 align="center">A passionate software engineer from Rome</h3>
+<h1 align="center">Hi 👋, my name is Federico Carmignani</h1>
+<h3 align="center">A passionate Software Engineer living in Rome</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fed21&label=Profile%20views&color=0e75b6&style=flat" alt="fed21" /> </p>
 
@@ -13,9 +13,7 @@
 
 - 📫 How to reach me **carmignanifederico@gmail.com**
 
-- 📄 Know about my experiences [on LinkedIn](on LinkedIn)
-
-- ⚡ Hobby **I love football**
+- 📄 Know about my experiences **on LinkedIn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
