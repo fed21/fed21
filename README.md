@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fed21&label=Profile%20views&color=0e75b6&style=flat" alt="fed21" /> </p>
 
-- 🔭 I’m currently working at **MICE s.r.l**
+- 🔭 I’m currently working at **Sytel Reply**
 
 - 🌱 I’m currently learning **Engineering in Computer Science at Sapienza University**
 
