@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, my name is Federico Carmignani</h1>
-<h3 align="center">A passionate Software Engineer living in Rome</h3>
+<h3 align="center">A passionate Software Engineer, AI oriented, living in Rome</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fed21&label=Profile%20views&color=0e75b6&style=flat" alt="fed21" /> </p>
 
