@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Engineering in Computer Science at Sapienza University**
 
-- 👯 I’m looking to collaborate as **Software Engineer**
+- 👯 I’m looking to collaborate as **Software Engineer/ AI Engineer/ ML Engineer**
 
 - 💬 Ask me about **Collaborations or Applications**
 
