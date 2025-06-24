@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, my name is Federico Carmignani</h1>
-<h3 align="center">A passionate Software Engineer, AI oriented, living in Rome</h3>
+<h3 align="center">A passionate Software Engineer, AI oriented, living in Rome and working as a Project Manager in AI and Digital Projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fed21&label=Profile%20views&color=0e75b6&style=flat" alt="fed21" /> </p>
 
-- 🔭 I’m currently working at **Sytel Reply**
+- 🔭 I’m currently working in a famous italian defense company.
 
-- 🌱 I’m currently learning **Engineering in Computer Science at Sapienza University**
+- 🌱 I’ve studiend **Engineering in Computer Science at Sapienza University**
 
-- 👯 I’m looking to collaborate as **Software Engineer/ AI Engineer/ ML Engineer**
+- 👯 I’m looking to collaborate as **Project Manager / Solution Architect / Software Engineer**
 
 - 💬 Ask me about **Collaborations or Applications**
 
