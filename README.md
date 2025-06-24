@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working in a famous italian defense company.
 
-- 🌱 I’ve studiend **Engineering in Computer Science at Sapienza University**
+- 🌱 I’ve studied **Engineering in Computer Science at Sapienza University**
 
 - 👯 I’m looking to collaborate as **Project Manager / Solution Architect / Software Engineer**
 
